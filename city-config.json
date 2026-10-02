@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "city": "leipzig",
+  "repository": "crimemaps-Leipzig",
+  "base_path": "/crimemaps-Leipzig/",
+  "artifact_budget_bytes": 900000000,
+  "publication_ready": false
+}
