@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "city": "leipzig",
+  "locale": "en",
+  "layout": "stacked",
+  "presentation": "world_map_and_rank",
+  "path": "docs/assets/visitors-by-country.en.mobile.svg",
+  "sha256": "18880e977e1c0fe40df20813aae5e4c309d838d41c071c50d259ce90c9d0bf4d",
+  "source_kind": "not_connected",
+  "collection_status": "not_connected",
+  "metric": null,
+  "source": null,
+  "generated_at_utc": null
+}
